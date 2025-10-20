@@ -1,9 +1,9 @@
 @font-face{
     font-family: 'konstruktorregular';
     src: 
-        url('../Fontes/Konstruktor/konstruktor-qzzrq-webfont.woff') format('woff'),
-        url('../Fontes/Konstruktor/konstruktor-qzzrq-webfont.woff2') format('woff2'),
-        url('../Fontes/Konstruktor/Konstruktor-qZZRq.otf') format('otf');
+        url('konstruktor-qzzrq-webfont.woff') format('woff'),
+        url('konstruktor-qzzrq-webfont.woff2') format('woff2'),
+        url('Konstruktor-qZZRq.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 }
